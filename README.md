@@ -1,4 +1,4 @@
-4# Perftest for Build Run Go
+# Perftest for Build Run Go
 
 [Build Run Go](https://github.com/sakethramanujam/build-run-go)
 
