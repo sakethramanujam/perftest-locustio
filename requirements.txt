@@ -8,7 +8,7 @@ greenlet==0.4.15
 idna==2.8
 isort==4.3.21
 itsdangerous==1.1.0
-Jinja2==2.10.1
+Jinja2==2.11.3
 lazy-object-proxy==1.4.1
 locustio==0.11.0
 MarkupSafe==1.1.1
